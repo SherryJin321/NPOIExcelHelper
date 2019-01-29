@@ -1,0 +1,12 @@
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\bin\Debug\ExcelHelper.dll
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\bin\Debug\ExcelHelper.pdb
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\bin\Debug\NPOI.dll
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\bin\Debug\NPOI.OOXML.dll
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\bin\Debug\NPOI.OpenXml4Net.dll
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\bin\Debug\NPOI.OpenXmlFormats.dll
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\bin\Debug\NPOI.xml
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.csprojResolveAssemblyReference.cache
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.csproj.CoreCompileInputs.cache
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.dll
+c:\users\jxy\Source\Repos\NPOIExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.pdb
